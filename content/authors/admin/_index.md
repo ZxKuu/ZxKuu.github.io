@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.Sc.Geoscience
+role: M.Sc. Geoscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -50,7 +50,7 @@ skills:
     items:
     - name: Python
       description: ''
-      percent: 40
+      percent: 50
       icon: python
       icon_pack: fab
     - name: Data Science
@@ -79,7 +79,7 @@ skills:
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 70
+        percent: 80
         icon: camera-retro
         icon_pack: fas
 
