@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSC in Geoscience
+    - course: MSc in Geoscience
       institution: University College London
       year: 2021
     - course: BSc in Geology
