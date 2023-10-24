@@ -1,50 +1,47 @@
 ---
 # Display name
-title: 吳健雄
+title: Greg Gu 顾知行
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chi Shing Goo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zhixing
+last_name: Gu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥸📸
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: M.Sc.Geoscience
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University College London
+    url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include marine geochemistry, palaeoceanography and deep marine sediments.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marine Geochemistry
+  - Palaeoceanography
+  - Deep Marine Sediments
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSC in Geoscience
+      institution: University College London
+      year: 2021
+    - course: BSc in Geology
+      institution: Tongji University
+      year: 2019
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,36 +50,36 @@ skills:
     items:
     - name: Python
       description: ''
-      percent: 80
+      percent: 40
       icon: python
       icon_pack: fab
     - name: Data Science
       description: ''
-      percent: 100
+      percent: 80
       icon: chart-line
       icon_pack: fas
-    - name: SQL
+    - name: QGIS
       description: ''
-      percent: 40
-      icon: database
+      percent: 60
+      icon: earth-asia
       icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Cycling
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: person-biking
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: bone
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 70
         icon: camera-retro
         icon_pack: fas
 
@@ -93,22 +90,16 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'mailto:gzx0915@hotmail.com'
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.instagram.com/zx_kuu/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
+    label: Follow me on Ins
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/ZxKuu
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
