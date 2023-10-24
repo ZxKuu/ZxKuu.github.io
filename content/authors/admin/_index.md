@@ -3,7 +3,7 @@
 title: 顾知行
 
 # Name pronunciation (optional)
-name_pronunciation: Chi Shing Goo
+name_pronunciation: Goo Chi Shing
 
 # Full name (for SEO)
 first_name: Zhixing
