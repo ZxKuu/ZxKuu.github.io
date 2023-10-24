@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Greg Gu 顾知行
+title: 顾知行
 
 # Name pronunciation (optional)
 name_pronunciation: Chi Shing Goo
