@@ -180,7 +180,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Personal Practice Gallery
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -201,7 +201,7 @@ sections:
         city: Haimen
         region: Nantong
         postcode: '226100'
-        country: Peoples Republic of China
+        country: China
         country_code: CN
       contact_links:
         - icon: video
