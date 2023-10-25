@@ -98,15 +98,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_link: uploads/MSc Diploma.pdf
+        - certificate_url: https://www.ucl.ac.uk/
           date_end: ''
           date_start: '2021-12-01'
           description: Diploma of MSc. Geoscience with Distinction
           organization: University College London
           organization_url: https://www.ucl.ac.uk/
           title: Master of Science in Geoscience
-          url: ''
-        - certificate_url: https://www.edx.org
+          link: uploads/MSc Diploma.pdf
+        - certificate_url: https://www.datacamp.com
           date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
